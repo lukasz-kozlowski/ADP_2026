@@ -21,12 +21,12 @@ Update the table (today you need to fill at least the first two columns)
 | Laskowski Wojciech | [wlaskowski](https://github.com/wlaskowski) | [ProFACT](https://github.com/wlaskowski/ProFACT) | Protein FASTA Analysis and Comparison Tool | Moryl Wojciech, Winczewska Karolina |
 | Tasinkiewicz Anastazja | [anastazjat08](https://github.com/anastazjat08) | [MutAAP-IC](https://github.com/anastazjat08/mutaap-ic) | Mutational Amino Acid Position - Impact Check | Prudło Agnieszka, Niemczak Paulina |
 | Mateusz Wawrzyniak | [m-wawrzyniak](https://github.com/m-wawrzyniak) | [NRNaudit](https://github.com/m-wawrzyniak/nrnaudit) | Neuron Audit | Dominik Suwała |
-| Janowiak Aleksander | [ajanowiak](https://github.com/ajanowiak) | [DrugKIT](https://github.com/kugi8412/DrugKit) | Deep Docking Drug Discovery Kit | Giezgała Jakub, Kupidura Piotr |
+| Janowiak Aleksander | [ajanowiak](https://github.com/ajanowiak) | [DrugKIT](https://github.com/kugi8412/DrugKit/tree/freeze) | Deep Docking Drug Discovery Kit | Giezgała Jakub, Kupidura Piotr |
 | Niemczak Paulina | [paulinaniemczak](https://github.com/paulinaniemczak) | [TBA] |  To Be Announced |  |
 | Norbert Szala | [norbertszala](https://github.com/NorbertSzala) | [tAIpipe](https://github.com/NorbertSzala/tAIpipe) | tAIpipe | Max Stróżyk |
 | Max Stróżyk | [maxi7524](https://github.com/maxi7524)| [tAIpipe](https://github.com/NorbertSzala/tAIpipe) | tAIpipe | Norbert Szala |
-| Giezgała Jakub | [kugi8412](https://github.com/kugi8412) | [DrugKIT](https://github.com/kugi8412/DrugKit) | Deep Docking Drug Discovery Kit | Kupidura Piotr, Aleksander Janowiak | 
-| Kupidura Piotr | [PiotrKupidura](https://github.com/PiotrKupidura) | [DrugKIT](https://github.com/kugi8412/DrugKit) | Deep Docking Drug Discovery Kit | Giezgała Jakub, Aleksander Janowiak |
+| Giezgała Jakub | [kugi8412](https://github.com/kugi8412) | [DrugKIT](https://github.com/kugi8412/DrugKit/tree/freeze) | Deep Docking Drug Discovery Kit | Kupidura Piotr, Janowiak Aleksander | 
+| Kupidura Piotr | [PiotrKupidura](https://github.com/PiotrKupidura) | [DrugKIT](https://github.com/kugi8412/DrugKit/tree/freeze) | Deep Docking Drug Discovery Kit | Giezgała Jakub, Janowiak Aleksander |
 | Winczewska Karolina | [KarolinaWinczewska](https://github.com/KaWinczewska) | [ProFACT](https://github.com/wlaskowski/ProFACT) | Protein FASTA analysis and comparison tool | Moryl Wojciech, Laskowski Wojciech|
 
 ### Task 2
