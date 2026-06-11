@@ -19,7 +19,7 @@ Update the table (today you need to fill at least the first two columns)
 | Prudło Agnieszka | [agap03](https://github.com/agap03) | [MutAAP-IC](https://github.com/anastazjat08/mutaap-ic) |  Mutational Amino Acid Position - Impact Check | Tasinkiewicz Anastazja, Niemczak Paulina |
 | Dominik Suwała | [dsuwala](https://github.com/dsuwala) | [NRNaudit](https://github.com/m-wawrzyniak/nrnaudit) | Neuron Audit | Mateusz Wawrzyniak |
 | Laskowski Wojciech | [wlaskowski](https://github.com/wlaskowski) | [ProFACT](https://github.com/wlaskowski/ProFACT) | Protein FASTA Analysis and Comparison Tool | Moryl Wojciech, Winczewska Karolina |
-| Tasinkiewicz Anastazja | [anastazjat08](https://github.com/anastazjat08) | TBA | TBA | Prudło Agnieszka, Niemczak Paulina |
+| Tasinkiewicz Anastazja | [anastazjat08](https://github.com/anastazjat08) | [MutAAP-IC](https://github.com/anastazjat08/mutaap-ic) | Mutational Amino Acid Position - Impact Check | Prudło Agnieszka, Niemczak Paulina |
 | Mateusz Wawrzyniak | [m-wawrzyniak](https://github.com/m-wawrzyniak) | [NRNaudit](https://github.com/m-wawrzyniak/nrnaudit) | Neuron Audit | Dominik Suwała |
 | Janowiak Aleksander | [ajanowiak](https://github.com/ajanowiak) | [DrugKIT](https://github.com/kugi8412/DrugKit) | Deep Docking Drug Discovery Kit | Giezgała Jakub, Kupidura Piotr |
 | Niemczak Paulina | [paulinaniemczak](https://github.com/paulinaniemczak) | [TBA] |  To Be Announced |  |
